@@ -6,6 +6,9 @@ npm install --save-dev typescript ts-node nodemon @types/node @types/express
 
 
 tsc --init
+
+
+npm i -D rimraf copyfiles       # Can be installed as "dependencies" or "devDependencies"
 ```
 
 ## Update tsconfig.json
